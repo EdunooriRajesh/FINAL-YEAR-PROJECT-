@@ -31,6 +31,13 @@ IoT devices are often vulnerable to various cyber threats due to limited securit
   so many people do the research the same project we are working there reseach gaps they drawbacks i took reference from research papers from
   https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning
   https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning
+
+  ## DATASETS REFERENCE
+
+  for accurate results i took the datasets reference from the
+  https://www.unb.ca/cic/datasets/ids-2017.html
+  
+  
   
 
 ---
