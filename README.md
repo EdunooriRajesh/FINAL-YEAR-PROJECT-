@@ -26,6 +26,13 @@ IoT devices are often vulnerable to various cyber threats due to limited securit
 - Reduces the risk of cyber-attacks in smart environments.
 - Provides scalable and efficient protection mechanisms.
 
+  ## REFERENCE
+
+  so many people do the research the same project we are working there reseach gaps they drawbacks i took reference from research papers from
+  https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning
+  https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning
+  
+
 ---
 
 📌 **Note:**  
